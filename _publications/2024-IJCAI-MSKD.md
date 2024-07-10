@@ -6,7 +6,7 @@ permalink: /publication/2024-IJCAI-MSKD
 paperurl: 'https://arxiv.org/abs/xxx'
 ---
 
-Yang Wang<sup>1</sup>, Haiyang Mei<sup>1,2</sup>, Ziqi Wei<sup>3,4,\*</sup>, Ao Jin<sup>1</sup>, Sen Qiu<sup>1</sup>, Qiang Zhang<sup>1</sup>, Xin Yang<sup>1,\*</sup>  
+Yang Wang<sup>1,2</sup>, Haiyang Mei<sup>1,2</sup>, Bao Qirui<sup>1</sup>, Ziqi Wei<sup>3</sup>, Mike Zheng Shou<sup>2</sup>, Haizhou Li<sup>5,2</sup>, Bo Dong<sup>4</sup>, Xin Yang<sup>1,\*</sup>  
 <sup>1</sup> Key Laboratory of Social Computing and Cognitive Intelligence, Dalian University of Technology  
 <sup>2</sup> National University of Singapore  
 <sup>3</sup> Institute of Automation, Chinese Academy of Sciences  
