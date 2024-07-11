@@ -11,9 +11,9 @@ title                    : "Wang Yang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://yangwang.github.io # the base hostname & protocol for site
+url                      : https://wangyang.github.io # the base hostname & protocol for site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wangyang24/yangwang.github.io"
+repository               : "wangyang24/wangyang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
