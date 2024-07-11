@@ -17,7 +17,7 @@ Contact us: xinyang@dlut.edu.cn
 
 The 33rd International Joint Conference on Artificial Intelligence (IJCAI) 2024. 
 
-![](..\images\teaser_ijcai.pdf)
+![](..\images\teaser.pdf)
 
 ### Abstract
 
