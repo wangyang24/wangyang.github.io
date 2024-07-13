@@ -30,7 +30,7 @@ ACM International Conference on Multimedia (MM) 2023.
 
 **A Geometrical Approach to Evaluate the Adversarial Robustness of Deep Neural Networks.**  
 **Yang Wang**, Bo Dong, Ke Xu, Haiyin Piao, Yufei Ding, Baocai Yin, Xin Yang.  
-ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 2023. 
+ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 2023.
 [PDF](https://arxiv.org/pdf/2310.06468)|[Project Page]()  
 
 
@@ -41,7 +41,7 @@ International Journal of Computer Vision (IJCV) 2023.
 
 **Mirror Segmentation via Semantic-Aware Contextual Contrasted Feature Learning**  
 Haiyang Mei, Letian Yu, Ke Xu, **Yang Wang**, Xin Yang, Xiaopeng Wei, Rynson W.H. Lau.  
-ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 2022.  
+ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 2022.
 [PDF](https://dl.acm.org/doi/abs/10.1145/3566127)|[Project Page](https://mhaiyang.github.io/TOMM2022-MirrorNet+/index.html) 
 
 **Don't Hit Me! Glass Detection in Real-World Scenes**  
