@@ -31,6 +31,7 @@ ACM International Conference on Multimedia (MM) 2023.
 **A Geometrical Approach to Evaluate the Adversarial Robustness of Deep Neural Networks.**  
 **Yang Wang**, Bo Dong, Ke Xu, Haiyin Piao, Yufei Ding, Baocai Yin, Xin Yang.  
 ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 2023.
+
 [PDF](https://arxiv.org/pdf/2310.06468)|[Project Page]()  
 
 
