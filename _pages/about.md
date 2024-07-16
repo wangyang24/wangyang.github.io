@@ -19,7 +19,7 @@ Publications
 **Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition**  
 **Yang Wang**, Haiyang Mei, Qirui Bao, Ziqi Wei, Mike Zheng Shou, Haizhou Li, Bo Dong, Xin Yang.  
 The 33rd International Joint Conference on Artificial Intelligence. (IJCAI 2024).  
-[PDF]()|[Project Page](/publication/2024-IJCAI-MSKD)  
+[PDF](http://arxiv.org/abs/2407.09521)|[Project Page](/publication/2024-IJCAI-MSKD)  
 
 
 **Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance**  
