@@ -25,11 +25,11 @@ We introduce a novel multimodality synergistic knowledge distillation scheme tai
 
 ### Downloads
 
-\[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/xxx)\|[Source code](https://github.com/wangyang24/IJCAI_2024_MSKD)\]
+\[[Paper](http://arxiv.org/abs/2407.09521)\|[Source code](https://github.com/wangyang24/IJCAI_2024_MSKD)\]
 
 ### Dataset
 
-Both training set and testing set can be obtained via form request at [here](http://xxx.dluticcd.com/).
+Both training set and testing set can be obtained via form request at [here](http://dsee.dluticcd.com/).
 
 ### Recommended citation
 
